@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/500/694/409/riven-league-of-legends-riven-spirit-blossom-league-of-legends-purple-background-hd-wallpaper-preview.jpg);
+}
+
+img {
+    height: 487px;
+    width: 438px;
+}
+
+h1 {
+    background-color: white;
+    text-align: center;
+    color: red;
+}
+
+p {
+    background-color: white;
+    text-align: center;
+    color: tomato;
+}
